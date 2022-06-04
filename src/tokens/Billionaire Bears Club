@@ -1,0 +1,15 @@
+    {
+      "chainId": 101,
+      "address": "GTCKBNurUsgegXxKeNab267MELu5q24RXMBCtG7aj3Nz",
+      "symbol": "BBC",
+      "name": "Billionaire Bears Club",
+      "decimals": 1,
+      "logoURI": "",
+    
+      "tags": [
+        "utility-token"
+      ],
+       "extensions": {
+        "discord": "https://discord.gg/billionaire-bears-club",
+        "twitter": "https://twitter.com/WealthyBears"
+    },
